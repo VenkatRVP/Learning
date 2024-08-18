@@ -1,0 +1,59 @@
+Source : https://developers.google.com/machine-learning/intro-to-ml/understanding
+
+What is Machine Learning?
+
+	- Translation apps to autonomous vehicles
+	- Process of training a piece of software called a model to make useful predictions or generate content from data.
+	- Ex: Weather Prediction
+	- if it is manual we have to do a lot of Mathematical computations
+
+
+Types of ML Systems
+	- supervised learning
+	- Unsupervised learning
+	- Reinforcement learning
+	- Generative AI
+
+Supervised learning
+	- Can make predictions after seeing lots of data with correct answers.
+	- Classification (Yes or no, Rain or no rain)
+	- Regression(Linear, returns numeric)
+
+Classification
+	- Binary Classification (Rain or no rain)
+	- Multiclass Classification (Rain, hail, snow, sleet)
+	
+
+Unsupervised Learning
+	- Is to identify meaningful patterns among the data
+	- Clustering
+
+Reinforcement Learning
+	
+	- Models make predictions by getting rewards or penalties based on actions performed within an environment. A reinforcement learning system generates a policy that defines the best strategy for getting the most rewards.
+
+
+Generative AI
+	
+	- Is a class of models that creates content from user input. For example, generative AI can create unique images, music compositions, and jokes; it can summarize articles, explain how to perform a task, or edit a photo.
+
+
+Supervised Learning
+
+	- Data(Features and labels)
+	- Model
+	- Training
+	- Evaluating
+	- Inference
+
+
+Dataset -> size(no of examples) and diversity(Variety of examples)
+
+
+Model
+	- Complex collection of numbers that define the mathematical relationship
+
+
+
+
+
