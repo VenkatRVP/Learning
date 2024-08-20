@@ -1,0 +1,34 @@
+Machine Learning
+Source : https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI
+
+Application of Machine learning
+
+	- Subfield of AI
+	- Artificial General intelligence
+
+What is Machine Learning ?
+	- Field of study that gives computers the ability to learn without being explicitly programmed(Arthur Samuel).
+	- He used Checkers game to train the model
+	- Supervised
+	- Unsupervised
+
+Supervised Learning
+	- Classification, Regression
+	- Labeled data will be used
+
+Classification 
+
+	- Breast Cancer detection
+	- Benign or Malignant
+
+Unsupervised Learning
+
+	- Find some patterns among the given data
+	- We let the model to form clusters  
+	- unlabeled data will be used
+	- Clustering is used in Google News. Everyday it analyze 100s of Articles and then Cluster those articles into a single group or cluster
+	- Customer data Clustering
+	- Anomaly detection (Find unusual data points)
+	- Dimensionality reduction (Takes big dataset and compress it to smaller dataset)
+	
+	
